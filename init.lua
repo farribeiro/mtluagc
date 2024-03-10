@@ -1,4 +1,4 @@
-minetest.register_chatcommand("gc",
+minetest.register_chatcommand("luagc",
 {
 	description = ("Invoke Garbage Collector"),
 	privs = {server = true},
